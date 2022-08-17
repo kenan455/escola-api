@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['*'],
+    'allowed_origins' => ['http://escola-api-weld.vercel.app'],
 
     'allowed_origins_patterns' => [],
 
